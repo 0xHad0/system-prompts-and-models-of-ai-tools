@@ -1,3 +1,23 @@
+# Fork of system-prompts-and-models-of-ai-tools
+
+This is a public fork of [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools), maintained to contribute improvements to the community.
+
+## Goals of this fork
+
+- Contribute improvements to existing prompts
+- Document best practices in prompt engineering
+- Share innovations in AI agent design
+- Collaborate with the community to improve overall quality
+
+## Contributions
+
+Contributions are welcome! If you'd like to contribute, please follow these steps:
+1. Fork this repository
+2. Create a branch for your modification
+3. Submit a pull request with a detailed description
+
+All changes are submitted under the original GNU GPL v3.0 license.
+
 # **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models**  
 
 (All the published system prompts are extracted by myself, except the already open sourced ones and Manus)
